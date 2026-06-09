@@ -26,7 +26,7 @@ export const products: Product[] = [
     price: 49,
     media: {
       type: "image",
-      src: "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=600&q=80",
+      src: "/images/front.png",
       alt: "Void Oversized Tee",
     },
     tag: "New",
@@ -40,7 +40,7 @@ export const products: Product[] = [
     price: 45,
     media: {
       type: "image",
-      src: "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=600&q=80",
+      src: "/images/back.png",
       alt: "Shadow Graphic Tee",
     },
     tag: "Best Seller",
